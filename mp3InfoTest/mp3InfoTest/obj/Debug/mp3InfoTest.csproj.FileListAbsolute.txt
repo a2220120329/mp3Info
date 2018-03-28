@@ -1,0 +1,10 @@
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\mp3InfoTest.exe.config
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\mp3InfoTest.exe
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\mp3InfoTest.pdb
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\obj\Debug\mp3InfoTest.csprojResolveAssemblyReference.cache
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\obj\Debug\mp3InfoTest.csproj.CoreCompileInputs.cache
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\obj\Debug\mp3InfoTest.exe
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\obj\Debug\mp3InfoTest.pdb
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\policy.2.0.taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\mp3InfoTest\mp3InfoTest\mp3InfoTest\bin\Debug\policy.2.0.taglib-sharp.config
